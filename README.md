@@ -1,6 +1,6 @@
 # Extranet -La référence Pierre 
 
-Ce dépôt une base de départ pour des projets HTML / CSS et JS créée par l'agence Indexel à destination de développeurs.
+Ce dépôt une base de départ pour des projets HTML / CSS et JS à destination de développeurs.
 Les fichiers sont configurés pour fonctionner dans un environnement axé sur les outils Gulp, Sass et Nunjucks. **A défaut, le dossier /public contient la version finale et peut-être utilisé pour en extraire les éléments souhaités**.
 
 - **Ressources**:
